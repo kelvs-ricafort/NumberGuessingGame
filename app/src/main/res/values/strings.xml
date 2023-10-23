@@ -5,4 +5,9 @@ The number of digits that I keep in my mind and
 the number of digits you choose will be the same. Also,
 never forget that you have 10 rights.
     </string>
+    <string name="na">Not Available</string>
+    <string name="two_digit_number">Two Digit Number</string>
+    <string name="three_digit_number">Three Digit Number</string>
+    <string name="four_digit_number">Four Digit Number</string>
+    <string name="start">Start</string>
 </resources>
