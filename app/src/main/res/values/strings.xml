@@ -14,6 +14,11 @@ never forget that you have 10 writes.
     <string name="last_guess">Your Last Guess</string>
     <string name="remaining_writes">Your remaining writes</string>
     <string name="increase_guess">Increase your guess</string>
+    <string name="decrease_guess">Decrease your guess</string>
     <string name="editText_hint">Enter your guess</string>
     <string name="confirm">Confirm</string>
+    <string name="toast_message">Please enter a guess</string>
+    <string name="dialog_title">Number Guessing Game</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 </resources>
